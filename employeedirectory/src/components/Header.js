@@ -16,7 +16,8 @@ const styles = {
 		backgroundColor: "navy",
 		color: "white",
 		display: "flex",
-		textAlign: "center"
+		textAlign: "center",
+		margin: 0
 	}
 }
 

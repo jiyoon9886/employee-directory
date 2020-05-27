@@ -5,6 +5,7 @@ import Search from "./components/Search";
 
 //main container (flex-direction: column)
 //header
+//search
 
 
 function App() {
@@ -20,7 +21,7 @@ function App() {
 	);
 }
 
-//search
+
 //table
 //columns titles
 
