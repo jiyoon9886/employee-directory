@@ -1,4 +1,6 @@
 import React from 'react';
+import Table from "./Table";
+
 
 function Search() {
 	return (
@@ -6,6 +8,7 @@ function Search() {
 			<form className="form-inline">
 				<input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
 			</form>
+			<Table />
 		</nav>
 	);
 }
