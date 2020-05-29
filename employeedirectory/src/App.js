@@ -3,10 +3,6 @@ import React from 'react';
 import Header from "./components/Header";
 import Search from "./components/Search";
 
-//main container (flex-direction: column)
-//header
-//search
-
 
 function App() {
 	return (
@@ -21,8 +17,5 @@ function App() {
 	);
 }
 
-
-//table
-//columns titles
 
 export default App;
